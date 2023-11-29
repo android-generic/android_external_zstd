@@ -100,7 +100,6 @@ cc_library {
     ],
     recovery_available: true,
     vendor_available: true,
-    product_available: true,
     system_ext_specific: true,
     host_supported: true,
     target: {
